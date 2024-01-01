@@ -19,11 +19,15 @@ The PDF contained above is a guide detailing how to use Google Sheets as a vesse
 
 ## Links
 
-#### Full PDF Writeup (including all code, 16 pages)
-[PDF](GAS_CS_leaderboard_writeup.pdf)
+#### Full PDF Writeup (including all code, 16 pages):
+[ PDF Writeup](GAS_CS_leaderboard_writeup.pdf)
 
-#### Google Spreadsheet Used in Exhibition
-[Final Scoresheet](https://docs.google.com/spreadsheets/d/1MkGE9Iy0QMtUh8Oka7PqXQGapbEwI4tHDLfMTEvVAUA/edit?usp=sharing)
+---
 
-#### Example Leaderboard
-[Final Scoreboard](https://jtpz0.csb.app/?s=9999)
+#### Google Spreadsheet Used in Exhibition:
+[ Exhibition Spreadsheet](https://docs.google.com/spreadsheets/d/1MkGE9Iy0QMtUh8Oka7PqXQGapbEwI4tHDLfMTEvVAUA/edit?usp=sharing)
+
+---
+
+#### Example Leaderboard:
+[ Leaderboard for Eric](https://jtpz0.csb.app/?s=9999)

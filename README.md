@@ -12,11 +12,11 @@ The PDF contained above is a guide detailing how to use Google Sheets as a vesse
 
 ## Links
 
-#### Full PDF Writeup
+#### Full PDF Writeup (including all code, 16 pages)
 [PDF](GAS_CS_leaderboard_writeup.pdf)
 
 #### Example Scoresheet Used in Testing
-[Final Scoresheet]()
+[Final Scoresheet](https://docs.google.com/spreadsheets/d/1MkGE9Iy0QMtUh8Oka7PqXQGapbEwI4tHDLfMTEvVAUA/edit?usp=sharing)
 
 #### Google Spreadsheet Used in Exhibition
 [Final Scoreboard](https://jtpz0.csb.app/?s=9999)
